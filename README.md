@@ -6,4 +6,4 @@
 ![Sequence Diagram](https://github.com/harisudhan27/agile-assgnment-2/blob/main/sequence%20agile.png)
 
 ### 3. Class Diagram
-![Class Diagram](./images/ClassDiagram.jpg)
+![Class Diagram](https://github.com/harisudhan27/agile-assgnment-2/blob/main/class%20agile.png)
